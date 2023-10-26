@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+}
+
+ul.link-list {
+display: flex;
+list-style: none;
+padding: 0;
+}
+ul.link-list>li.link{
+    padding:5px;
+}
+
+div.navbar {
+display:flex;
+}
+
+li.link:hover{
+    background-color: hotpink;
+}
